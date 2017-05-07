@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gary McCoy -- gary@mccoyweb.net -- GaryMc25
 
 # THANKS
 
